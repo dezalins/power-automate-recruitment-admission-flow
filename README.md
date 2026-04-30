@@ -66,12 +66,12 @@ Lista: Recrutamento (SharePoint)
 
 ### Lista de Origem — Recrutamento
 - **Site:** `https://company.sharepoint.com/teams/PeopleAnalyticsBR`
-- **ID da Lista:** `d0e9ec12-7775-46c3-8fdb-68e360459ad8`
+- **ID da Lista:** `(Não incluído, informação confidencial)`
 - **Papel:** Fonte dos dados do processo de recrutamento e admissão
 
 ### Lista de Destino — Cargos e Documentação
 - **Site:** `https://company.sharepoint.com/teams/PeopleAnalyticsBR`
-- **ID da Lista:** `a97d2d16-6455-414a-9cb6-0b6379599f39`
+- **ID da Lista:** `(Não incluído, informação confidencial)`
 - **Papel:** Destino dos dados migrados para o processo de documentação CSC
 
 ---
