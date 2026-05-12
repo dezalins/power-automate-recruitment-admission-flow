@@ -43,7 +43,6 @@
 ### ✅ Checklist
 
 - [ ] A documentação foi atualizada (se aplicável)
-- [ ] O pacote `.zip` exportado foi incluído/atualizado no repositório
 - [ ] Os IDs de listas e URLs do SharePoint estão corretos
 - [ ] Os destinatários de e-mail foram revisados
 - [ ] O fluxo foi testado em ambiente de desenvolvimento antes do merge
