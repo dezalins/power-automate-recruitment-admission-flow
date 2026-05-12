@@ -94,12 +94,6 @@ A correspondência entre campos das duas listas está documentada em [`docs/mape
 
 ---
 
-## 🚀 Como Importar o Flow
-
-Consulte [`docs/importacao.md`](docs/importacao.md) para o passo a passo de importação e configuração do fluxo em um novo ambiente.
-
----
-
 ## 📁 Estrutura do Repositório
 
 ```
@@ -108,8 +102,7 @@ Consulte [`docs/importacao.md`](docs/importacao.md) para o passo a passo de impo
 ├── docs/
 │   ├── logica-detalhada.md          # Descrição passo a passo do fluxo
 │   ├── mapeamento-campos.md         # De/Para dos campos entre listas
-│   ├── notificacoes.md              # Templates e destinatários dos e-mails
-│   └── importacao.md                # Guia de importação e configuração
+│   └── notificacoes.md              # Templates e destinatários dos e-mails
 └── .github/
     └── PULL_REQUEST_TEMPLATE.md     # Template para Pull Requests
 ```
